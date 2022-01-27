@@ -1,0 +1,6 @@
+Number of airfoils: 1.
+Free-stream Mach: 0.15000.
+Reynolds number: 6000000.00000.
+Reference AOA: 10.000.
+Reference temperature: 288.15.
+Reference dynamic viscosity: 0.000019.

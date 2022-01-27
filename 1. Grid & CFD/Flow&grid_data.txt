@@ -1,0 +1,18 @@
+Number of airfoils: 2.
+Free-stream Mach: 0.07500.
+Reynolds number: 1000000.00000.
+Reference AOA: 7.700.
+Reference temperature: 300.00.
+Reference dynamic viscosity: 0.0000185300.
+type: VISCOUS.
+nodes: 0.95000.
+ellipse_dimension: 0.85000.
+ellipse_refining: 0.900000.
+y_plus[0]: 0.08000.
+progr[0]: 1.10000.
+thick[0]: 0.150.
+wall_refining[0]: 1.25000.
+y_plus[1]: 0.12000.
+progr[1]: 1.10000.
+thick[1]: 0.250.
+wall_refining[1]: 1.25000.
